@@ -51,10 +51,10 @@ namespace TechnicalChellenge.Controllers
         }
 
         /// <summary>
-        /// 
+        /// GetValidatePrime.
         /// </summary>
         /// <param name="number">number input.</param>
-        /// <returns></returns>
+        /// <returns>True/False</returns>
         [HttpGet]
         [Route("prime")]
         public IActionResult GetValidatePrime(long number)
