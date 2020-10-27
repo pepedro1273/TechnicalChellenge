@@ -1,9 +1,0 @@
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\bin\Debug\netcoreapp3.1\Models.deps.json
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\bin\Debug\netcoreapp3.1\Models.dll
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\bin\Debug\netcoreapp3.1\Models.pdb
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.dll
-C:\Users\p.henrique\source\repos\TechnicalChellenge\Models\obj\Debug\netcoreapp3.1\Models.pdb
